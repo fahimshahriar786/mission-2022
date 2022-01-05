@@ -1,3 +1,40 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+.first-titel{
+    font-size: 26px;
+    margin:40px;
+    
+    border-left: 5px solid;
+    border-image:linear-gradient(rgba(85, 201, 105, 0.603),rgb(238, 68, 16));
+    border-image-slice:1;
+}
+.text-orange{
+    color: orange;
+}
+.s-title{
+    margin: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.first-flex{
+    width: 50%;
+    padding-left:4%;
+
+    
+    
+    display:flex;
+    
+}
+.person-img{
+    height: 80%;
+    width: 90%;
+    
+}
