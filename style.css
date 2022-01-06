@@ -47,8 +47,8 @@ body{
     
 }
 .person-img{
-    height: 100%;
-    width: 200%;
+    height: 90%;
+    width: 220%;
     margin-left: 40% ;
     padding-left:20%;
     
@@ -178,7 +178,7 @@ body{
 }
 
 .img1{
-    height: 80%;
+    height: 75%;
     width: 90%;
     border-radius: 100%;
 }
